@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Tablaout_Fragments_ViewPager_MenuItems"
